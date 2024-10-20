@@ -8,5 +8,6 @@ a3 = randint(0,10)
 a4 = randint(0,10)
 a5 = randint(0,10)
 aleatorio = (a1, a2, a3, a4, a5)
+aleatorio = (a1, a2, a3, a4, a5)
 
 print(aleatorio)
